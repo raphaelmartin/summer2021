@@ -34,4 +34,10 @@ Sayad Abdelmalek, Des illusions de l'émigré aux souffrances de l'immigré, Par
 
 Rea A. et Tripier M. (2008), Sociologie de l'immigration, Paris, La Découverte, Repères.
 
-MAZZELLA, Sociologie des migrations, 2021: https://www.cairn.info/sociologie-des-migrations--9782715407268.htm ; revue Migrations société: https://www.cairn.info/revue-migrations-societe.htm ; Sujet migrations / minorités: https://journals.openedition.org/lectures/1392 ; colloque: https://migreval.hypotheses.org/99.
+MAZZELLA, Sociologie des migrations, 2021: [https://www.cairn.info/sociologie-des-migrations--9782715407268.htm](https://www.cairn.info/sociologie-des-migrations--9782715407268.htm).
+
+Revue Migrations société: [https://www.cairn.info/revue-migrations-societe.htm](https://www.cairn.info/revue-migrations-societe.htm).
+
+Sujet migrations / minorités: [https://journals.openedition.org/lectures/1392](https://journals.openedition.org/lectures/1392).
+
+colloque: [https://migreval.hypotheses.org/99](https://migreval.hypotheses.org/99).
