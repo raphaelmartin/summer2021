@@ -1,0 +1,17 @@
+% \usepackage{fullpage}
+%\usepackage[parfill]{parskip}
+\usepackage{indentfirst}
+%\setlength\parskip{.5\baselineskip plus .1\baselineskip  minus .1\baselineskip}
+%\setlength{\parindent}{2em}
+
+\usepackage{float}
+\floatplacement{figure}{H}
+\usepackage{framed}
+\usepackage{xcolor}
+\let\oldquote=\quote
+\let\endoldquote=\endquote
+\colorlet{shadecolor}{GreenYellow!10}
+\renewenvironment{quote}{\begin{shaded*}\begin{oldquote}}{\end{oldquote}\end{shaded*}}
+\makeatletter
+\renewcommand{\@dotsep}{10000} 
+\makeatother
